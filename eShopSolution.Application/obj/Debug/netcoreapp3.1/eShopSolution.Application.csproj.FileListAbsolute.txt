@@ -1,0 +1,16 @@
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Application.deps.json
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Application.dll
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Application.pdb
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csprojAssemblyReference.cache
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.AssemblyInfoInputs.cache
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.AssemblyInfo.cs
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csproj.CoreCompileInputs.cache
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csproj.CopyComplete
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.dll
+D:\1.LAMNV11\eShopSolution\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.pdb
